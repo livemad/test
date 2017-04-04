@@ -5,4 +5,5 @@ set id="etribe"
 set pwd="etribepass"
 net use \\%ip% /user:%id% %pwd%
 net use
+
 start \\%ip%
