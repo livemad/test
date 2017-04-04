@@ -1,5 +1,4 @@
 @echo off
-
 set ip="192.168.10.8"
 set path=""
 set id="etribe"
